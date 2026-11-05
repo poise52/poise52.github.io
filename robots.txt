@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amaecp.xyz/sitemap.xml
